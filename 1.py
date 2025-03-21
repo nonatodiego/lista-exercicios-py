@@ -2,7 +2,7 @@
 
 # Escreva uma função que recebe uma lista de números inteiros e retorna a soma de todos os elementos pares contidos nela.
 # Exemplo: [2,4,10,3,9,7,15,22]
-# Saída: A soma dos pares é: x
+
 
 msg = input("Digite uma lista de números inteiros:")
 
@@ -22,5 +22,6 @@ def somar_pares(lista_numeros):
 
 resultado = somar_pares(lista_numeros)
 
+# Saída: A soma dos pares é: x
 print ("A soma dos pares é:", resultado)
         
